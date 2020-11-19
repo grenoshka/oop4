@@ -1,0 +1,10 @@
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe.config
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.exe
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\bin\Debug\LifeSimulation.pdb
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csprojAssemblyReference.cache
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Form1.resources
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.Properties.Resources.resources
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.GenerateResource.cache
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.exe
+C:\Users\Katya\Documents\Visual Studio 2019\Projects\LifeSimulation\LifeSimulation\obj\Debug\LifeSimulation.pdb
